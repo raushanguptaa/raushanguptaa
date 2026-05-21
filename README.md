@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanguptaa&layout=compact&theme=dracula&hide_border=true" height="160" />
-</div>
-
-###
-
 <h2>🚀 About Me</h2>
 
 <ul>
