@@ -16,6 +16,52 @@
 
 ###
 
+<h2>🛠 Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring boot logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+<img width="10" />
+
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+
+</div>
+
+###
+
 <h2>🌱 Currently Learning</h2>
 
 <ul>
@@ -49,9 +95,3 @@
 <p>
   GitHub: <a href="https://github.com/raushanguptaa">@raushanguptaa</a>
 </p>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
