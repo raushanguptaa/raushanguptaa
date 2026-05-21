@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Raushan Gupta
 
-<!--
-**raushanguptaa/raushanguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BCA Student
+- 💻 Learning Full Stack Development
+- ⚛️ Working with React & Tailwind CSS
+- ☕ Exploring Spring Boot Backend Development
+- 🛠 Building projects to improve my skills
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- React.js
+- Tailwind CSS
+- Java & Spring Boot
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Java
+- Spring Boot
+- PHP
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- MySQL
+- PostgreSQL
+- Git & GitHub
+
+## 📌 Current Goals
+- Build real-world projects
+- Improve frontend & backend skills
+- Create a strong developer portfolio
+- Prepare for internships
+
+## ⚡ Fun Fact
+I enjoy building projects more than just watching tutorials 😄
+
+## 📫 Connect With Me
+- GitHub: @raushanguptaa
