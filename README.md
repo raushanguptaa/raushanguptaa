@@ -5,20 +5,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,php,python,mysql,postgres,git,github" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raushanguptaa&show_icons=true&theme=dracula&hide_border=true" height="160" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanguptaa&theme=dracula&hide_border=true" height="160" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanguptaa&layout=compact&theme=dracula&hide_border=true" height="160" />
 </div>
 
