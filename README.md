@@ -5,49 +5,21 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,spring,php,python,mysql,postgres,git,github" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanguptaa&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raushanguptaa&show_icons=true&theme=dracula&hide_border=true" height="160" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raushanguptaa&theme=dracula&hide_border=true" height="160" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushanguptaa&layout=compact&theme=dracula&hide_border=true" height="160" />
 </div>
 
 ###
@@ -97,3 +69,9 @@
 <p>
   GitHub: <a href="https://github.com/raushanguptaa">@raushanguptaa</a>
 </p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
