@@ -68,7 +68,7 @@
   <li>React.js</li>
   <li>Tailwind CSS</li>
   <li>Java & Spring Boot</li>
-  <li>Git & GitHub</li>
+  <li>Data Structures & Algorithms</li>
 </ul>
 
 ###
