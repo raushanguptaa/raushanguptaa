@@ -79,7 +79,6 @@
   <li>Build real-world projects</li>
   <li>Improve frontend & backend skills</li>
   <li>Create a strong developer portfolio</li>
-  <li>Prepare for internships</li>
 </ul>
 
 ###
